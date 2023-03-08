@@ -1,0 +1,5 @@
+cluster1	adipocytes,aorta_endothel,fibroblast,kidney_glomerular_endothel,kidney_tubular_endothel,lung_alveolar_endothel,pancreas_endothel,saphenous_vein_endothel,skeletal_muscle,smooth_muscle
+cluster2	blood_monocytes,macrophage
+cluster3	blood_t_cd4,blood_t_cd8
+cluster4	colon_epithelial,colon_endocrine
+cluster5	kidney_glomerular_podocytes,kidney_tubular_epithelial

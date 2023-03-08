@@ -1,0 +1,32 @@
+group	label_name
+breast_basal_epithelial	Breast basal epithelial
+breast_luminal_epithelial	Breast luminal epithelial
+neural	Neural cells
+oligodendrocytes	Oligodendrocytes
+tongue_epithelial	Tongue epithelial
+tonsil_palatine_epithelial	Tonsil palatine epithelial
+lung_alveolar_epithelial	Lung alveolar epithelial
+lung_bronchus_epithelial	Lung bronchus epithelial
+cluster5	Kidney epitelial
+bladder_epithelial	Bladder epithelial
+prostate_epithelial	Prostate epithelialial
+endometrium_epithelial	Endometrium epithelial
+fallopian_epithelial	Fallopian epithelial
+gastric_epithelial	Gastric epithelial
+small_int_epithelial	Small int epithelial
+cluster4	Colon cells
+liver_hepatocytes	Liver hepatocytes
+pancreas_acinar	Pancreas acinar
+pancreas_alpha	Pancreas alpha
+pancreas_beta	Pancreas beta
+pancreas_delta	Pancreas delta
+pancreas_duct	Pancreas duct
+myeloid	Myeloid cells
+thyroid_epithelial	Thyroid epithelial
+blood_b	B cells
+blood_granulocytes	Granulocytes
+blood_nk	Natural killer cells
+cluster2	Monocytes & macrophages
+cluster3	T cells
+heart_cardiomyocyte	Heart cardiomyocytes
+cluster1	Mesoderm subgroup 1
